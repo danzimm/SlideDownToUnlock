@@ -1,0 +1,9 @@
+Package: com.zimm.slidedown
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: firmware (>= 3.0), mobilesubstrate
+Description: Change unlock slider to slide down to unlock
+Name: SlideDownToUnlock
+Author: Dan Zimmerman <daniel.zimmerman@me.com>
+Tag: purpose::extension
